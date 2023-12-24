@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>primeiros passos com o dom</title>
+    <style>
+      body {
+        background-color: rgb(68, 125, 195);
+        color: white;
+        font: normal 20pt Arial;
+      }
+    </style>
+</head>
+<body>
+   <!-- dom = document object model - modelo de objeto de documento
+vamos aprender fazer uma tree dom pro meu site
+vamos aprender a manipular as estruturas dom de meu e outros sites-->
+
+    <h1> iniciando estudos com o DOM</h1>
+    <P> aqui vai o resultado</P>
+   <!--  <strong> negrito </strong>
+
+devo saber fazer minha arvore dom
+        window = janela
+location    document      history
+             html                
+           head body   
+    meta title     hi p p div
+                        strong
+-->
+    <p>aprendendo a usar o <strong>DOM</strong> em JavaScript.</p>
+    <div> clique em mim </div>
+    <div classe="msg" > clique em mim </div>
+ <!-- classe usamos ponto e id usamos #-->
+    <script>
+        var corpo = window.document.body
+        var p1 = window.document.getElementsByTagName('p')[1]
+        var d = window.document.querySelector('div.msg')
+        d.style.background = 'blue'
+       // var d = window.document.getElementsByName('msg')[0]
+       // d.innerText = 'olá'
+        //d.style.background = 'green'
+       //window.document.getElementById('name').innertText = 'olá,'
+        //document.write(p1.innerText)
+            //ou
+        //document.write(p1.innerHTML)
+       //window.alert(p1.innerHTML) alerta o usuário 
+        //window.alert(p1.innerText)
+        //corpo.style.background = 'black'
+       // window.document.write('está escrito assim: ' + p1.innerText) // o texto dentro do primeiro parágrafo 
+       //p1.style.color = 'blue'
+     //window.document.write('olá, mundo')
+     //window.document.write(window.navigator.appName)
+     //window.document.write(window.document.URL)
+     //podemos usar vários métodos para selecionar os elementos específicos
+//selecionando por marca, id, nome, classe, seletor
+// 32 marca - getElementsByTagName() posso selecionar dois p paragrafos e etc
+// id - getElementByld()
+// nome - getElementsByName()
+// classe - getElementsByClassName()
+// seletor - querySelector() querySelectorAll()
+    </script>
+</body>
+</html>
