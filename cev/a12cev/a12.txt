@@ -1,0 +1,11 @@
+condição multipla(escolha se)
+pra cada comando, precisamos do break
+
+switch(espressao){
+    case valor 1:
+
+        break
+    ...
+    default:
+        break    
+}

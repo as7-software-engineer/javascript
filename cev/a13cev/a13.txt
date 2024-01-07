@@ -1,0 +1,21 @@
+repetições
+
+enquanto
+
+while(condição){
+
+}
+function comerpz(){
+    while(temfatia()){
+
+    }
+}
+
+======================================
+repita ate
+
+do while
+
+dp{
+
+}while(condição)

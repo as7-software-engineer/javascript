@@ -1,0 +1,40 @@
+@charset "UTF-8";   
+
+body{
+    background-color: rgb(104, 104, 179);
+    font: normal 15pt Arial;
+
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+h1{
+    color: rgb(130, 130, 137);
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;/* afastaa palavra da borda da div*/
+    width: 500px;/* diminui a area que envolve a palavra*/
+    margin: auto;/* centraliza a div*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.483);
+
+
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+div{ /*seletor pra div*/
+    text-align: center;
+    padding: 8px;
+}

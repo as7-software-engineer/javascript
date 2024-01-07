@@ -1,0 +1,6 @@
+condições (simples e composta)
+if(condição) criar um bloco {
+    true
+} else {
+    false
+}

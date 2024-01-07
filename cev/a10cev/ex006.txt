@@ -1,0 +1,15 @@
+eventos dom
+tudo o que pode acontecer, ex: do evento do mouse passando por cima:
+-mouseenter: mouse colidiu com a div
+-mousemove: mouse se move pela div
+-mousedown: apertei o mouse|||
+-mouseup: soltei o click
+-click: aperta e solta.
+-mouseout: desliga o mouse para fora.
+=================================================
+
+funcoes:
+chamadas de blocos, cada {bloco} executa automticamente
+    function ação(opcional:parâmetros){
+        
+    }
