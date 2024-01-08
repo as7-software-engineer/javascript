@@ -1,0 +1,14 @@
+nossa rota te aqui
+fundamentos- vars e dados - operadores - condições- repetições- arrays- functions-dom
+
+daqui pra frente.
+functions, obejtos,modularição, RegEX,jason, ajax, nodejs
+
+===================
+objetos
+
+let num  = [] o array em js é heterogeneo, aceita tipos diferentes em memória simutânea
+
+agora quando relacionamos objetos, usamos chaves ao invés de []
+
+let amigo {nome:'josé', sexo:'M', peso:85.4, engordar(p){}}

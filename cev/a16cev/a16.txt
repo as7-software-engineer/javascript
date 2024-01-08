@@ -21,3 +21,8 @@ function parimp(n){
     }
 }
 let res = parimp(11)
+
+parimp chamada
+()parametro
+{}ação
+'impar' retorno (uma função em jS podemos so ter um retorno)
