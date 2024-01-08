@@ -12,4 +12,5 @@ if(pos == -1){
 } else {
     console.log(`o valor 8 está na posição ${pos}`)
 }
+//vetor na tela
 
