@@ -1,0 +1,16 @@
++ - / * 
+%
+++ --
++= -=
+
+ordem de precendencia.
+
+operador mod, retorna o resto da divisão.
+ex: n1%n2.
+
+incremento ++
+n1+= x
+vai aumentar em x o valor da variavel.
+
+n1*=x
+multiplicando o valor da var por x

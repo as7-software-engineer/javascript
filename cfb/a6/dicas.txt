@@ -1,0 +1,55 @@
+d: pra ir pra outro disco
+
+cd caminho
+
+=====================
+objeto
+quando comparamos 2 objetos. sempre vai dar false, 
+pois são endereços diferentes na memória.
+ex:
+let n1=1
+let n2="1"
+
+let v1=(nome:"bruno")
+let v2=(nome:"bruno")
+
+obs: === analise o tipo de dados e endereço.
+console.log(v1===v2)
+==========================
+coleta de dados.precisamos de uma ig(interface grafica)
+pois o node e serverside.
+
+let nome=prompt("digite seu nome")
+console.log(nome)
+=======================
+sobre o not
+let n1=1
+let n2=2
+
+console.log(n1!=n2)
+true.
+========================================
+como saber se o código esta em mobile ou pc.
+atraves dos media queries, temos os ajustes da página
+
+mas usando javascript, podemos saber se está rodando em cell ou pc.
+if(navigator.userAgent.match(/Android/i)
+|| navigator.userAgent.match(/web05/i)
+|| navigator.userAgent.match(/iPhone iPad iPod/i)
+|| navigator.userAgent.match(/BlackBerry/i)
+|| navigator.userAgent.match(/windows Phone/i)
+|| navigator.userAgent.match(/Opera Mini/i)
+|| navigator.userAgent.match(/IEMobile/i)
+){
+    console.log("Celular")
+}else{
+    console.log("PC")
+}
+
+================================
+sobre o DOM , arvores de elementos da dentro do html(página)
+===============================
+****sobre o defer, faz com que o js seja carregado simultâneamente ao html.
+o mesmo que colocar o script no final do projeto. 
+quando declarado no head.
+

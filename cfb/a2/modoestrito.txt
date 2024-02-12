@@ -1,0 +1,2 @@
+modo estrito deixa o código mais limpo.
+cuidado ao criar vars.

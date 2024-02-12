@@ -1,0 +1,18 @@
+"use strict"
+let nome= "bruno"
+nome="cfb cursos"
+nome=10
+const curso="javascript"
+curso="html"//xxx erro
+console.log(curso)
+
+o js faz o casting (conversão de tipo de 
+forma automática).
+
+"use strict"
+
+let nome="Bruno"
+nome ="cfb cursos"
+nome =10
+console.log(nome)
+

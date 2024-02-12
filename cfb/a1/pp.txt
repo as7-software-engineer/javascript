@@ -1,0 +1,30 @@
+node -v
+ v20.9.0
+=======================
+ Acesse a pasta: Use o comando "cd" seguido do caminho completo da pasta (por exemplo, "cd C:\Pasta\Subpasta") 
+ para entrar na pasta desejada. Verifique o conteúdo da pasta: Use o comando "dir" para listar o conteúdo da pasta atual.
+
+ Passo a passo para voltar pasta no CMD:
+O CMD exibirá o diretório atual. Volte para a pasta anterior: 
+Digite "cd.." e pressione Enter. Isso fará com que você volte para a pasta anterior.
+
+cd x avança
+c.. volta
+cd = change directory
+===============================
+dir para ver o conteudo de uma pasta 
+(directory)
+======
+js é uma linguagem interpretada e não compilada,
+pois roda/ é executada em tempo real.
+======================
+como roda dentro do bronwse.?
+abrir com live servewr.
+usar ctrol + shift c, abrir console no browser.
+=========================
+coloque o script no final do body,
+e não no head, pois os elementos ainda não existem.
+todos os ele do dom precisam ser carregados.
+(document object model)
+
+use tbm o site repit pra simular o node js

@@ -1,0 +1,20 @@
+let n1=10, n2=11, res
+
+//res=n1 & n2
+res = n1 | n2//op pipezin onde estiver 1, eu valorizo
+console.log(res)// operador e, onde tiver equivalencia, ele vai me retornar true (1)
+// op bit a bit
+
+temos ou or exclusivo. ^
+
+let n1=10, n2=11, res
+res = n1 ^ n2
+
+console.log(res)
+======================
+deslocamento de bit ex(em 1) <<1
+
+let n1=10, n2=11, res
+res = n1 << 1 ou >> 1 deslocando um bit para direita, OU SEJA X BITS.
+
+

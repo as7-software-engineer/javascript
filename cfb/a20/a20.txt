@@ -1,0 +1,21 @@
+function nome(){//declaração
+    console.log("CFB cursos")
+}
+nome()//chamada da função 
+// posso tbm colocar dentro de um loop.
+for(let i = 0; i<10;i++){
+    nome()
+}
+=======================================
+function soma2_10(){//declaração
+    let n1=2
+    let n2=10
+    let soma=n1+n2
+    console.log(soma)
+}
+//chamada da função 
+// posso tbm colocar dentro de um loop.
+for(let i = 0; i<10;i++){
+    soma2_10()
+}
+===========================================
