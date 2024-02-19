@@ -1,0 +1,5 @@
+o toggle faz remoção ou adição, sempre o inverso.
+===============================
+ caixa2.appendCHILD (anexar fio)
+ ===============================
+ 

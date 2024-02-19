@@ -7,6 +7,8 @@ function mudarTexto(){//declaração
     d3.innerHTML="CFB cursos"
 
 } 
-  
+//mudarTexto()vá ao html e adcione essa f atraves do
+//onclick, para trocar quando clicar no botao.
+ 
 //chamada da função 
 // posso tbm colocar dentro de um loop.

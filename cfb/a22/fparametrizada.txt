@@ -1,0 +1,7 @@
+o valor que eu colocar dentro da função vai pra dentro 
+do parentese()
+ex:
+function soma(p1){
+    console.log(p1)
+}
+soma("as7")

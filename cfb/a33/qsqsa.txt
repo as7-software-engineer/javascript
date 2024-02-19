@@ -1,0 +1,3 @@
+o queruSeletor é mais generico, obetendo
+ o elemento que eu explicar pra ele.
+ não ponha dois elementos com mesmo id

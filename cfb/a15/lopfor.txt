@@ -1,0 +1,12 @@
+loops iterações.
+loop definido e indefinido.
+for, while e do while
+ex:
+
+for(inicia;cond;controle){
+    comandos iterados(um comando , sem chave)
+}
+
+for(let i=0;i<10;i++){
+    console.log(i+" as7")
+}

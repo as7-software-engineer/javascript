@@ -1,0 +1,8 @@
+não precisa de nome, pois so será executada em tempo real
+ex:
+function(){
+
+}//precisa-se associar essa função a uma variável. ou const
+
+const f=function(v1,v2){return v1+v2}
+console.log(f(10,5))

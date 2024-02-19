@@ -1,0 +1,5 @@
+coleção básica
+const cursos=['html', 'css', 'js', 'php', 'react']
+cursos.map((ele, i)=>{
+    console.log("curso: " +ele+" - posição do curso: "+i)
+})

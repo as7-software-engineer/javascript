@@ -1,0 +1,10 @@
+primeiro vamos pegar o elemnto que vamos operar
+ex:
+const c1= document.getelementById("c1")
+//ou
+//const c1=document.querySelector("#c1)
+
+//adicionando o evento no elemento.
+//adcioanndo um escutador ao c1, monitorador
+//addEventListener("evento", on)
+c1.addEventListener("click", msg)//se tiver argumento use ()

@@ -1,0 +1,5 @@
+função com numero indeterminado de parametros
+function soma(...valores){//spread faz o esp. de param
+    return valores.length//largura do param valores
+}
+console.log(soma(10,5))

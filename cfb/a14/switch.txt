@@ -1,0 +1,23 @@
+let col=1
+
+switch(col){
+    case 1:
+        console.log("xx")
+        break
+    case 2:
+        console.log("xx")
+        break
+    caso 3:
+        console.log("xx")
+        break
+    case 4: case 4: case 6:
+        console.log("xx")
+        break
+    default
+        console.log("xx")
+        break
+}
+
+precisamos ter um break
+
+e no final um default

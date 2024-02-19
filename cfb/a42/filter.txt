@@ -1,0 +1,10 @@
+de um array , o filter me retorna um outro array somente com 
+elementos filtrados ex:
+const idades=[15,21,30,17,18,44,12,50]
+const maior=idades.filter()
+
+const filtroMaior18=(valor,índice,array)=>{
+    //valor, pos de v e o array
+    //n obrigatório inserir todos os param
+} 
+const

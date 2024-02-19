@@ -1,0 +1,14 @@
+radio sâo as bolinhas
+de marcação.
+
+if e else e tbm
+try{
+    alert("curso escolhido")
+}catch(ex){
+    alert("selecione um curso")
+}
+não esqueça do parentNode.parentNode para apontar a div inteira
+===============a45
+existe o insertbefore, mas não podemos usar o insertAfter
+para resolver isso, insira antes do irmão dele.
+ex: caixa.cursos.insertbefore(novoCurso, cursoSelecionado.nextSibling)

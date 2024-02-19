@@ -1,0 +1,13 @@
+f() lambidas são mecanismos que podem representar f() anonimas.
+lembre que vc precisar associar a f() a uma var.
+ex: f() de seta =>
+const soma=(v1,v2)=>{
+    return v1+v2
+   
+}
+console.log(soma(10,5))
+
+//obs quando temos 1 prmt, não precisamos colocar()
+//ex:
+const nome=n=>{return n} 
+console.log(nome("as7"))

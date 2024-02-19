@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br"> raiz-root
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>a30</title>
+    </head>
+    <body>
+        <div id="c1">html</div>
+        <div id="c2">css</div>
+        <div id="c3">js</div>
+        <div id="c4">php</div>
+        <div id="c5">react</div>
+        <div id="c6">mysql</div>
+        <script src="a30.js"></script>
+    </body>
+</html>
+
+filhos diretos de html head e body
+body(div , script)

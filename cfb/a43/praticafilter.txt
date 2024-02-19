@@ -1,0 +1,10 @@
+radio sâo as bolinhas
+de marcação.
+
+if e else e tbm
+try{
+    alert("curso escolhido")
+}catch(ex){
+    alert("selecione um curso")
+}
+não esqueça do parentNode.parentNode para apontar a div inteira

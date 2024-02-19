@@ -1,0 +1,44 @@
+existem os bloco, a depende da vercidade, um bloco será executado
+ex:
+sintaxe
+if(expressão){
+    se for verdade
+}
+
+ let n1=10
+
+ if(n>10){
+    console.log("numero maior q 10")
+ }
+ console.log("fim do pg")
+===============================
+ //temos o else tambem
+ 
+ let n1=10
+
+ if(n>10){
+    console.log("numero maior q 10")
+ }else{
+
+ }
+ console.log("fim do pg")
+================================
+  //temos o else if tambem
+   let n1=10
+
+ if(n>10){
+    console.log("numero maior q 10")
+ }else if(){
+
+ }else
+
+ ======================podemos associar o and e or
+  let clima="sol"
+  let energia=100
+
+ if(energia>70 && clima=="sol){
+    console.log("GOTO PRAIA")
+ }else{
+    console.log("GOTO cinema")
+ }
+  

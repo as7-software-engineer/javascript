@@ -1,0 +1,4 @@
+temos a div, e a div tem child, filhos...
+existe a fisrt child.
+da firt child existem as siblings. irmãos
+first siblings e ec
